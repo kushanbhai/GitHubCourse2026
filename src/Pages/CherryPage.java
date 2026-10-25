@@ -9,7 +9,12 @@ public class CherryPage {
 		int age = 30;
 	}
 	
+
 	public void test() {
 		System.out.println("test feature");
+	}
+	public int getAge(int age) {
+		return age;
+
 	}
 }
