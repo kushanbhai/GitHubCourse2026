@@ -4,7 +4,10 @@ public class CartPage {
 
 	
 	public void cart() {
-		String nameDev2 = "cart dev2";
-		System.out.println(nameDev2);
+		String nameD1 = "cart";
+		System.out.println(nameD1);
+		if(true) {
+			System.out.println("cart feature");
+		}
 	}
 }
