@@ -11,6 +11,7 @@ public class ClassicPage {
 		String name = "Kushan";
 		int sal = 45;
 		int age = 25;
+		System.out.println("Hi Cart");
 
 	}
 }
