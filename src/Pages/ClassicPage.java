@@ -8,5 +8,6 @@ public class ClassicPage {
 		int k1 = 200;
 		int div = k1/k;
 		System.out.println(div);
+		String name = "Kushan";
 	}
 }
