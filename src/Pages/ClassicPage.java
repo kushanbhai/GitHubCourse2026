@@ -9,6 +9,6 @@ public class ClassicPage {
 		int div = k1/k;
 		System.out.println(div);
 		String name = "Kushan";
-		int sal = 12;
+		int sal = 25;
 	}
 }
