@@ -9,7 +9,7 @@ public class ClassicPage {
 		int div = k1/k;
 		System.out.println(div);
 		String name = "Kushan";
-		int sal = 40;
+		int sal = 45;
 		int age = 25;
 
 	}
