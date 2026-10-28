@@ -12,6 +12,11 @@ public class ClassicPage {
 		int sal = 45;
 		int age = 25;
 		System.out.println("Hi Cart");
+		
 
+
+	}
+	public void master(){
+		System.out.println("Hi Cart");
 	}
 }
