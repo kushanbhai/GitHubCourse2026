@@ -20,5 +20,6 @@ public class ClassicPage {
 		System.out.println("Hi Cart");
 		int n= 12;
 		int k=20;
+		int m  = 30;
 	}
 }
